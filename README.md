@@ -17,14 +17,13 @@ On my GitHub, you'll find a collection of projects showcasing my skills and inte
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karanraj-6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p>
+<p align="left">
 <a href="https://twitter.com/karanraj3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karanraj3056" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karanraj-kumbala-1566ba283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanraj-kumbala-1566ba283" height="30" width="40" /></a>
+<a href="https://fb.com/karanraj3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karanraj3056" height="30" width="40" /></a>
+<a href="https://instagram.com/_karan_2k06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_karan_2k06" height="30" width="40" /></a>
 <a href="https://medium.com/@karanraj3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@karanraj3056" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/karanraj3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karanraj3056" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kroops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kroops" height="30" width="40" /></a>

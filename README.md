@@ -9,9 +9,9 @@ I thrive on leveraging advanced analytics to solve complex problems and am alway
 
 On my GitHub, you'll find a collection of projects showcasing my skills and interests, from machine learning algorithms to data-driven web applications. I'm excited to collaborate, learn, and grow within this ever-evolving field. Welcome to my GitHub profile! </p><a href="https://twitter.com/karanraj3056" target="blank"><img src="https://img.shields.io/twitter/follow/karanraj3056?logo=twitter&style=for-the-badge" alt="karanraj3056" /></a> 
 
-<p align="left">- 🔭 I’m currently working on **Machine learning projects**                - 🌱 I’m currently learning **TensorFlow,scikit_learn**</p>
+<p>- 🔭 I’m currently working on **Machine learning projects**                - 🌱 I’m currently learning **TensorFlow,scikit_learn**</p>
 
-<p align="left">- 👯 I’m looking to collaborate with **Data science stream students**      - 📫 How to reach me **karanraj3056@gmail.com**</p>
+<p>- 👯 I’m looking to collaborate with **Data science stream students**      - 📫 How to reach me **karanraj3056@gmail.com**</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanraj-6&label=Profile%20views&color=0e75b6&style=flat" alt="karanraj-6" /> </p>
 

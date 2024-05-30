@@ -2,10 +2,13 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate Data science student from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
+### About Me
 
-Hi, I'm Karanraj Kumbala, a dedicated Data Science student at SR University. With a deep passion for uncovering hidden patterns and transforming data into actionable insights, I thrive on leveraging advanced analytics and machine learning to solve complex problems. Welcome to my GitHub profile!
+<p align="left"> Hi, I'm Karanraj Kumbala, a dedicated Data Science student at SR University. I have a profound passion for uncovering hidden patterns and transforming data into actionable insights. My academic journey has equipped me with a robust foundation in statistical analysis, machine learning, and data visualization techniques.
 
-<p align="left"> Hi, I'm Karanraj Kumbala, a dedicated Data Science student at SR University. With a deep passion for uncovering hidden patterns and transforming data into actionable insights, I thrive on leveraging advanced analytics and machine learning to solve complex problems. Welcome to my GitHub profile!<a href="https://twitter.com/karanraj3056" target="blank"><img src="https://img.shields.io/twitter/follow/karanraj3056?logo=twitter&style=for-the-badge" alt="karanraj3056" /></a> </p>
+I thrive on leveraging advanced analytics to solve complex problems and am always eager to explore new methodologies and technologies in the data science realm. Whether it's working on predictive modeling, data wrangling, or developing insightful visualizations, I find great satisfaction in every step of the data-driven process.
+
+On my GitHub, you'll find a collection of projects showcasing my skills and interests, from machine learning algorithms to data-driven web applications. I'm excited to collaborate, learn, and grow within this ever-evolving field. Welcome to my GitHub profile! </p><a href="https://twitter.com/karanraj3056" target="blank"><img src="https://img.shields.io/twitter/follow/karanraj3056?logo=twitter&style=for-the-badge" alt="karanraj3056" /></a> 
 
 - 🔭 I’m currently working on **Machine learning projects**
 

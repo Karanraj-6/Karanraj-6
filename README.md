@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on **Machine learning projects**
 
+-- 👯 I’m looking to collaborate with **Data science stream students**
+
 - 🌱 I’m currently learning **TensorFlow,scikit_learn**
 
 - 📫 How to reach me **karanraj3056@gmail.com**

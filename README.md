@@ -8,11 +8,11 @@
 I thrive on leveraging advanced analytics to solve complex problems and am always eager to explore new methodologies and technologies in the data science realm. Whether it's working on predictive modeling, data wrangling, or developing insightful visualizations, I find great satisfaction in every step of the data-driven process.
 
 On my GitHub, you'll find a collection of projects showcasing my skills and interests, from machine learning algorithms to data-driven web applications. I'm excited to collaborate, learn, and grow within this ever-evolving field. Welcome to my GitHub profile! </p><a href="https://twitter.com/karanraj3056" target="blank"><img src="https://img.shields.io/twitter/follow/karanraj3056?logo=twitter&style=for-the-badge" alt="karanraj3056" /></a> 
-
+<p>
 - 🔭 I’m currently working on **Machine learning projects**                                  - 🌱 I’m currently learning **TensorFlow,scikit_learn**
 
 -- 👯 I’m looking to collaborate with **Data science stream students**                       - 📫 How to reach me **karanraj3056@gmail.com**
-
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanraj-6&label=Profile%20views&color=0e75b6&style=flat" alt="karanraj-6" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karanraj-6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

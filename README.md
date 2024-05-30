@@ -16,14 +16,13 @@ On my GitHub, you'll find a collection of projects showcasing my skills and inte
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanraj-6&label=Profile%20views&color=0e75b6&style=flat" alt="karanraj-6" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karanraj-6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanraj-6" alt="karanraj-6" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://twitter.com/karanraj3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karanraj3056" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karanraj-kumbala-1566ba283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanraj-kumbala-1566ba283" height="30" width="40" /></a>
 <a href="https://medium.com/@karanraj3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@karanraj3056" height="30" width="40" /></a>

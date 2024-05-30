@@ -13,6 +13,7 @@
 - 📫 How to reach me **karanraj3056@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanraj-6&label=Profile%20views&color=0e75b6&style=flat" alt="karanraj-6" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=karanraj-6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanraj-6" alt="karanraj-6" /></a> </p>
 
 ### Blogs posts

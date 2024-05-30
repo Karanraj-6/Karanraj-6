@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate Data science student from India</h3>
 <img align="right" alt="Coding" width="300" height="200" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
+### About Me:
+Hi, I'm Karanraj Kumbala, a dedicated Data Science student at SR University. With a deep passion for uncovering hidden patterns and transforming data into actionable insights, I thrive on leveraging advanced analytics and machine learning to solve complex problems. Welcome to my GitHub profile!
+
 <p align="left"> <a href="https://twitter.com/karanraj3056" target="blank"><img src="https://img.shields.io/twitter/follow/karanraj3056?logo=twitter&style=for-the-badge" alt="karanraj3056" /></a> </p>
 
 - 🔭 I’m currently working on **Machine learning projects**

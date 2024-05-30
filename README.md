@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQEtn2bpzF0PfQ/profile-displaybackgroundimage-shrink_350_1400/0/1713522491181?e=1722470400&v=beta&t=dzgHF6S6EzvrJ6qoN0eWHAxPLrtZT1p22_KgJGxWIVQ)
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate Data science student from India</h3>
-<img align="right" alt="Coding" width="300" height="200" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
+<img align="right" alt="Coding" width="400" height="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 ### About Me:
 Hi, I'm Karanraj Kumbala, a dedicated Data Science student at SR University. With a deep passion for uncovering hidden patterns and transforming data into actionable insights, I thrive on leveraging advanced analytics and machine learning to solve complex problems. Welcome to my GitHub profile!
 

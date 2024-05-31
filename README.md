@@ -30,6 +30,39 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<table>
+  <tr>
+    <th>Python3</th>
+    <th>C</th>
+    <th>C++</th>
+    <th>Java</th>
+    <th>JavaScript</th>
+    <th>HTML</th>
+    <th>CSS</th>
+    
+  </tr>
+  <tr>
+    <td>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>
+    </td>
+    <td>
+     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>
+    </td>
+     <td>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    </td>
+     <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    </td>
+     <td>
+     
+    </td>
+     <td>
+     
+    </td>
+  </tr>
+</table>
+
 <!--
 <div>
 ### Languages:

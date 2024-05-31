@@ -176,14 +176,14 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
 
 <p>
   <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=karanraj-6&show_icons=true&theme=vision-friendly-dark">
-  <img align="right" width="400" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanraj-6&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img align="right" width="400" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanraj-6&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
 
-<div id="header" align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=karanraj-6&style=for-the-badge&color=orange" alt=""/>
-</div>
+</p>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>

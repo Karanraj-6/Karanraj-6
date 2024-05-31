@@ -28,8 +28,9 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
 <a href="https://www.hackerrank.com/karanraj3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karanraj3056" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kroops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kroops" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h2><strong>Languages and Tools:</strong></h2><br>
+<div>
+<h3 align="left">Languages:</h3>
 <table>
   <tr>
     <th>Python3</th>
@@ -42,8 +43,8 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
     
   </tr>
   <tr>
-    <td>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>
+    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/></a>
     </td>
     <td>
      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>
@@ -67,15 +68,105 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
   </tr>
 </table>
 
-<!--
-<div>
-### Languages:
-| Python3 | C | C++ | JS | Solidity |
-|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> |<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|
--->
-  
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+ <h3 align="left">Best frameworks and main libraries for Python3:</h3> 
+ <table>
+  <tr>
+    <th>Numpy</th>
+    <th>Pandas</th>
+    <th>Matplotlib</th>
+    <th>Sklearn</th>
+    <th>Tensorflow</th>
+     <th>Seaborn</th>
+    <th>Pytorch</th> 
+    <th>Flask</th>
+  </tr>
+  <tr>
+    <td>
+     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" title="C"  alt="C" width="55" height="55"/></a>
+    </td>
+     <td>
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+    </td>
+     <td>
+      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+    </td>
+     <td>
+     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+    </td>
+     <td>
+       <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+     </td>
+    <td>
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+    </td>
+  </tr>
+</table>
+ <h3 align="left">Data Manipulation:</h3> 
+ <table>
+  <tr>
+    <th>Oracle</th>
+    <th>MySQL </th>
+    <th>MongoDB</th>   
+  </tr>
+    <td>
+       <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+    </td>
+     <td>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    </td>
+     <td>
+     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+    </td>
+ </table>
+<h3 align="left">Environments,OS,Testing & Other:</h3> 
+<table>
+  <tr>
+    <th>VScode</th>
+    <th>GIT</th>
+    <th>GitHUB</th>   
+    <th>Jupyter</th>  
+    <th>Anaconda </th>  
+    <th>PyCharm </th>
+    <th>Figma</th>
+    <th>WindowsOS</th> 
+    <th>MacOS</th> 
+  </tr>
+<tr>
+   <td>
+     <a href="https://code.visualstudio.com/"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="mongodb" width="40" height="40"/></a>
+    </td>
+   <td>
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    </td>
+   <td>
+     <a href="https://github.com/"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="mongodb" width="40" height="40"/></a>
+    </td>
+   <td>
+     <a href="https://jupyter.org/"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="mongodb" width="40" height="40"/></a>
+    </td>
+   <td>
+     <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/Z3J6t6DlsMFbQFV4HWl19PIBf1d9BzSBT8thN-5CSvU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbnRl/Z3JhdGl2ZW1vZGVs/aW5nLm9yZy9pbWFn/ZXMvYW5hY29uZGEt/c3ltYm9sLnN2Zw.svg" alt="mongodb" width="40" height="40"/></a>
+    </td>
+   <td>
+     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" alt="mongodb" width="40" height="40"/></a>
+    </td>
+   <td>
+     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+    </td>
+   <td>
+      <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/tG-S_XLzvaZg5uvoM0llYYFFSBFkAp7psrvKNZyfoic/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMi9XaW5k/b3dzLUxvZ28tUE5H/LUltYWdlcy5wbmc" width="40" height="40"/> </a>
+    </td>
+   <td>
+     <a href="https://www.apple.com/macos/sonoma/" rel="noreferrer"> <img src="https://imgs.search.brave.com/Rp4CI-r09MqT4L_UpXTyfHH5CFqZ8vVKj6N6vAC3Oo8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9mL2ZhL0Fw/cGxlX2xvZ29fYmxh/Y2suc3ZnLzY0MHB4/LUFwcGxlX2xvZ29f/YmxhY2suc3ZnLnBu/Zw" alt="mongodb" width="40" height="40"/></a>
+    </td>
+</tr>
+</table>
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanraj-6&show_icons=true&locale=en&layout=compact" alt="karanraj-6" /></p>
 

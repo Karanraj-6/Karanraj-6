@@ -181,7 +181,7 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
  
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=karanraj-6&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">

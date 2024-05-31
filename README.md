@@ -174,7 +174,7 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=karanraj-6&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-<p align="center">
+<p>
   <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=karanraj-6&show_icons=true&theme=vision-friendly-dark">
   <img width="450" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanraj-6&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>

@@ -175,8 +175,8 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
 </p>
 
 <p>
-  <img align="left" width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=karanraj-6&show_icons=true&theme=vision-friendly-dark">
-  <img align="right" width="450" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanraj-6&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=karanraj-6&show_icons=true&theme=vision-friendly-dark">
+  <img align="right" width="400" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanraj-6&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 

@@ -77,7 +77,7 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
     <th>Sklearn</th>
     <th>Tensorflow</th>
      <th>Seaborn</th>
-    <th>Pytorch</th> 
+    <th>SciPy</th> 
     <th>Flask</th>
   </tr>
   <tr>
@@ -100,7 +100,7 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
       <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
      </td>
     <td>
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+      <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="Scipy" width="40" height="40"/> </a>
     </td>
     <td>
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>

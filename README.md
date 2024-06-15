@@ -107,7 +107,7 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
     </td>
   </tr>
 </table>
- <h3 align="left">Data Manipulation:</h3> 
+ <h3 align="left">Data Management:</h3> 
  <table>
   <tr>
     <th>Oracle</th>

@@ -139,22 +139,22 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
   </tr>
 <tr>
    <td>
-     <a href="https://code.visualstudio.com/"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="mongodb" width="40" height="40"/></a>
+     <a href="https://code.visualstudio.com/"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Vscode" width="40" height="40"/></a>
     </td>
    <td>
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     </td>
    <td>
-     <a href="https://github.com/"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="mongodb" width="40" height="40"/></a>
+     <a href="https://github.com/"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="40" height="40"/></a>
     </td>
    <td>
-     <a href="https://jupyter.org/"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="mongodb" width="40" height="40"/></a>
+     <a href="https://jupyter.org/"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/></a>
     </td>
    <td>
-     <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/Z3J6t6DlsMFbQFV4HWl19PIBf1d9BzSBT8thN-5CSvU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbnRl/Z3JhdGl2ZW1vZGVs/aW5nLm9yZy9pbWFn/ZXMvYW5hY29uZGEt/c3ltYm9sLnN2Zw.svg" alt="mongodb" width="40" height="40"/></a>
+     <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" alt="Anaconda" width="40" height="40"/></a>
     </td>
    <td>
-     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" alt="mongodb" width="40" height="40"/></a>
+     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" alt="Pycharm" width="40" height="40"/></a>
     </td>
    <td>
      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
@@ -163,7 +163,7 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
       <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/tG-S_XLzvaZg5uvoM0llYYFFSBFkAp7psrvKNZyfoic/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMi9XaW5k/b3dzLUxvZ28tUE5H/LUltYWdlcy5wbmc" width="40" height="40"/> </a>
     </td>
    <td>
-     <a href="https://www.apple.com/macos/sonoma/" rel="noreferrer"> <img src="https://imgs.search.brave.com/Rp4CI-r09MqT4L_UpXTyfHH5CFqZ8vVKj6N6vAC3Oo8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9mL2ZhL0Fw/cGxlX2xvZ29fYmxh/Y2suc3ZnLzY0MHB4/LUFwcGxlX2xvZ29f/YmxhY2suc3ZnLnBu/Zw" alt="mongodb" width="40" height="40"/></a>
+     <a href="https://www.apple.com/macos/sonoma/" rel="noreferrer"> <img src="https://imgs.search.brave.com/Rp4CI-r09MqT4L_UpXTyfHH5CFqZ8vVKj6N6vAC3Oo8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9mL2ZhL0Fw/cGxlX2xvZ29fYmxh/Y2suc3ZnLzY0MHB4/LUFwcGxlX2xvZ29f/YmxhY2suc3ZnLnBu/Zw" alt="apple" width="40" height="40"/></a>
     </td>
 </tr>
 </table>

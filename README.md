@@ -151,7 +151,7 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
      <a href="https://jupyter.org/"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="40" height="40"/></a>
     </td>
    <td>
-     <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" alt="Anaconda" width="40" height="40"/></a>
+     <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" alt="Anaconda" width="40" height="40"/></a>
     </td>
    <td>
      <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" alt="Pycharm" width="40" height="40"/></a>

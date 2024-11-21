@@ -1,4 +1,4 @@
-![MasterHead]([https://media.licdn.com/dms/image/v2/D5616AQEtn2bpzF0PfQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713522491181?e=1730332800&v=beta&t=iDIsD0T_mkhijX2r1JQ_IbjtNrEsfS3tiUv1NWmcR6Y](https://media.licdn.com/dms/image/v2/D5616AQEtn2bpzF0PfQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713522491181?e=1737590400&v=beta&t=_niAKLdSbCku1XEkH5uPpEvg4FTXSdB2toDlD2Qdito))
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEtn2bpzF0PfQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713522491181?e=1737590400&v=beta&t=_niAKLdSbCku1XEkH5uPpEvg4FTXSdB2toDlD2Qdito)
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate Data science student from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">

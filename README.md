@@ -103,7 +103,7 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
       <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="Scipy" width="40" height="40"/> </a>
     </td>
     <td>
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="40" height="40"/> </a>
+      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://png.pngitem.com/pimgs/s/361-3612005_prog-flask-hd-png-download.png" alt="flask" width="40" height="40"/> </a>
     </td>
   </tr>
 </table>

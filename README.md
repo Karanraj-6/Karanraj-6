@@ -1,4 +1,4 @@
-![MasterHead](https://www.linkedin.com/in/karanraj-kumbala-1566ba283/overlay/background-image/)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEtn2bpzF0PfQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713522491181?e=1758758400&v=beta&t=vyQLnwls1UsvT4gyjfwYXTEE0e15bvaF6Jbh8ygpFr4)
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate Computer science student from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">

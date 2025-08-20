@@ -1,9 +1,9 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEtn2bpzF0PfQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713522491181?e=1737590400&v=beta&t=_niAKLdSbCku1XEkH5uPpEvg4FTXSdB2toDlD2Qdito)
+![MasterHead](https://www.linkedin.com/in/karanraj-kumbala-1566ba283/overlay/background-image/)
 <h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">A passionate Data science student from India</h3>
+<h3 align="center">A passionate Computer science student from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 
-<p align="left">Hi, I'm Karanraj Kumbala, a Data Science student at SR University. I have a passion for uncovering patterns and transforming data into insights, with a strong foundation in statistical analysis, machine learning, and data visualization.
+<p align="left">Hi, I'm Karanraj Kumbala, a Computer Science student at SR University. I have a passion for uncovering patterns and transforming data into insights, with a strong foundation in statistical analysis, machine learning, and data visualization.
 
 I enjoy leveraging advanced analytics to solve complex problems and am eager to explore new data science methodologies and technologies. My projects range from predictive modeling and data wrangling to insightful visualizations.
 

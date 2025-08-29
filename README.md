@@ -15,7 +15,7 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanraj-6&label=Profile%20views&color=0e75b6&style=flat" alt="karanraj-6" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Karanraj-6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=karanraj-6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

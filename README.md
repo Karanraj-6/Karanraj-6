@@ -9,13 +9,13 @@ I enjoy leveraging advanced analytics to solve complex problems and am eager to 
 
 Welcome to my GitHub profile, where you can see my work in machine learning algorithms and data-driven web applications. I'm excited to collaborate and grow in this dynamic field! </p><a href="https://twitter.com/karanraj3056" target="blank"><img src="https://img.shields.io/twitter/follow/karanraj3056?logo=twitter&style=for-the-badge" alt="karanraj3056" /></a> 
 
-- 🔭 I’m currently working on **Machine learning projects** ;               - 🌱 I’m currently learning **TensorFlow,scikit_learn**
+- 🔭 I’m currently working on **Backend** ;               - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate with **Data science stream students**   ;   - 📫 How to reach me **karanraj3056@gmail.com**
+- 👯 I’m looking to collaborate with **passionate people**   ;   - 📫 How to reach me **karanraj3056@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karanraj-6&label=Profile%20views&color=0e75b6&style=flat" alt="Karanraj-6" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Karanraj-6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Karanraj-6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,17 +37,15 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
     <th>C++</th>
     <th>Java</th>
     <th>JavaScript</th>
-    <th>HTML</th>
-    <th>CSS</th>
     <th>TypeScript</th>
     
   </tr>
   <tr>
-    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/></a>
-    </td>
     <td>
-     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>
+     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    </td>
+      <td>
+        <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     </td>
      <td>
      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -60,29 +58,27 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     </td>
      <td>
-     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    </td>
-    <td>
-     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-     </td>
-     <td>
-     <a href="https://www.w3schools.com/typescript/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?q=typescript%20logo&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F616%2F528%2Fpng-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dtypescript&docid=uWbLP8XJHJuqCM&tbnid=ILYDsguGUY14DM&vet=12ahUKEwiOvb_dxcmPAxUipK8BHRvTMgsQM3oECBoQAA..i&w=360&h=258&hcb=2&ved=2ahUKEwiOvb_dxcmPAxUipK8BHRvTMgsQM3oECBoQAA" alt="css3" width="40" height="40"/></a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
      </td>
        
   </tr>
 </table>
 
- <h3 align="left">Best frameworks and main libraries for Python3:</h3> 
+ <h3 align="left">Data Science and AI/ML:</h3> 
  <table>
   <tr>
     <th>Numpy</th>
     <th>Pandas</th>
     <th>Matplotlib</th>
+    <th>Seaborn</th>
     <th>Sklearn</th>
-    <th>Tensorflow</th>
-     <th>Seaborn</th>
-    <th>SciPy</th> 
+    <th>Keras</th>
+    <th>Pytorch</th>
     <th>Flask</th>
+    <th>Langchain</th>
+    <th>HuggingFace</th>
+    <th>CrewAi</th>
+  
   </tr>
   <tr>
     <td>
@@ -94,40 +90,88 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
      <td>
       <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
     </td>
+        <td>
+      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+     </td>
      <td>
      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
     </td>
-     <td>
-       <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+    <td>
+      <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" alt="keras" width="40" height="40"/> </a>
     </td>
     <td>
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-     </td>
-    <td>
-      <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="Scipy" width="40" height="40"/> </a>
-    </td>
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
+    </td> 
     <td>
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://png.pngitem.com/pimgs/s/361-3612005_prog-flask-hd-png-download.png" alt="flask" width="40" height="40"/> </a>
     </td>
+    <td>
+      <a href="https://python.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/681b1c8ea1f7435322e41d7f_78fcd12986d8e3be598f36c8bf2af9b9_Frame%2099808.svg" alt="langchain" width="40" height="40"/> </a>
+    <td>
+      <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
+    </td>
+    <td>
+      <a href="https://crewai.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" alt="crewai" width="40" height="40"/> </a>
+    </td> 
   </tr>
 </table>
+
+ <h3 align="left">Web Development:</h3>
+ <table>
+  <tr>
+    <th>HTML5</th>
+    <th>CSS3</th>
+    <th>ReactJS</th>
+    <th>NodeJS</th>
+    <th>ExpressJS</th>
+    <th>Bootstrap</th>
+  </tr>
+  <tr>
+    <td>
+     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    </td>
+    <td>
+     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+     </td>
+    <td>
+     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    </td>
+     <td>
+      <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    </td>
+     <td>
+      <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
+    </td>
+     <td>
+      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+    </td>
+  </tr>
+
+</table>
+
  <h3 align="left">Data Management:</h3> 
  <table>
   <tr>
-    <th>Oracle</th>
     <th>MySQL </th>
     <th>MongoDB</th>   
+    <th>PostgreSQL</th>
+    <th>ChromaDB (vector database)</th>
+
   </tr>
-    <td>
-       <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-    </td>
      <td>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     </td>
      <td>
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
     </td>
- </table>
+      <td>
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    </td>
+      <td>
+        <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="./assets/chroma.webp" alt="chromadb" width="40" height="40"/> </a>
+      </td>
+  </tr>
+  </table>
 <h3 align="left">Environments,OS,Testing & Other:</h3> 
 <table>
   <tr>
@@ -136,10 +180,9 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
     <th>GitHUB</th>   
     <th>Jupyter</th>  
     <th>Anaconda </th>  
-    <th>PyCharm </th>
-    <th>Figma</th>
-    <th>WindowsOS</th> 
-    <th>MacOS</th> 
+    <th>Docker</th>
+    <th>Postman</th>
+    <th>AWS</th>
   </tr>
 <tr>
    <td>
@@ -157,18 +200,15 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
    <td>
      <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" alt="Anaconda" width="40" height="40"/></a>
     </td>
-   <td>
-     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" alt="Pycharm" width="40" height="40"/></a>
+    <td>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" width="40" height="40"/></a>
     </td>
    <td>
-     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     </td>
    <td>
-      <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/tG-S_XLzvaZg5uvoM0llYYFFSBFkAp7psrvKNZyfoic/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMi9XaW5k/b3dzLUxvZ28tUE5H/LUltYWdlcy5wbmc" width="40" height="40"/> </a>
-    </td>
-   <td>
-     <a href="https://www.apple.com/macos/sonoma/" rel="noreferrer"> <img src="https://imgs.search.brave.com/Rp4CI-r09MqT4L_UpXTyfHH5CFqZ8vVKj6N6vAC3Oo8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9mL2ZhL0Fw/cGxlX2xvZ29fYmxh/Y2suc3ZnLzY0MHB4/LUFwcGxlX2xvZ29f/YmxhY2suc3ZnLnBu/Zw" alt="apple" width="40" height="40"/></a>
-    </td>
+     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+    </td> 
 </tr>
 </table>
 </div>

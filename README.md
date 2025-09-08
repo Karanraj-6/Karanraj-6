@@ -66,7 +66,7 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
      </td>
      <td>
-     <a href="https://www.w3schools.com/typescript/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://www.google.com/imgres?q=typescript%20logo&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F616%2F528%2Fpng-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dtypescript&docid=uWbLP8XJHJuqCM&tbnid=ILYDsguGUY14DM&vet=12ahUKEwiOvb_dxcmPAxUipK8BHRvTMgsQM3oECBoQAA..i&w=360&h=258&hcb=2&ved=2ahUKEwiOvb_dxcmPAxUipK8BHRvTMgsQM3oECBoQAA)" alt="css3" width="40" height="40"/></a>
+     <a href="https://www.w3schools.com/typescript/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/imgres?q=typescript%20logo&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F616%2F528%2Fpng-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dtypescript&docid=uWbLP8XJHJuqCM&tbnid=ILYDsguGUY14DM&vet=12ahUKEwiOvb_dxcmPAxUipK8BHRvTMgsQM3oECBoQAA..i&w=360&h=258&hcb=2&ved=2ahUKEwiOvb_dxcmPAxUipK8BHRvTMgsQM3oECBoQAA" alt="css3" width="40" height="40"/></a>
      </td>
        
   </tr>

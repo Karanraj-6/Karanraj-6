@@ -142,7 +142,9 @@ Welcome to my GitHub profile, where you can see my work in machine learning algo
      <td>
       <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
     </td>
+    <td>
      <a href="[https://expressjs.com/](https://tailwindcss.com/)" target="_blank" rel="noreferrer"> <img src="https://github.com/Karanraj-6/Karanraj-6/blob/main/assets/Tailwind%20CSS.png" alt="tailwind" width="40" height="40"/> </a>
+  </tr>
   </tr>
 
 </table>

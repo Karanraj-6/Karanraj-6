@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Computer science student from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 
-<p align="left">Hi, I'm Karanraj Kumbala, a Computer Science student at SR University. I have a passion for uncovering patterns and transforming data into insights, with a strong foundation in statistical analysis, machine learning, and data visualization.
+<p align="left">Hi, I'm Karanraj Kumbala, a Computer Science student at SR University with a passion for building impactful software solutions. I specialize in combining data-driven insights, software engineering principles, and web development practices to solve real-world problems.
 
-I enjoy leveraging advanced analytics to solve complex problems and am eager to explore new data science methodologies and technologies. My projects range from predictive modeling and data wrangling to insightful visualizations.
+I enjoy developing full-stack applications, implementing machine learning models, and designing efficient algorithms. My skill set includes statistical analysis, data visualization, backend development, API design, and creating dynamic, user-friendly web applications.
 
-Welcome to my GitHub profile, where you can see my work in machine learning algorithms and data-driven web applications. I'm excited to collaborate and grow in this dynamic field! </p><a href="https://twitter.com/karanraj3056" target="blank"><img src="https://img.shields.io/twitter/follow/karanraj3056?logo=twitter&style=for-the-badge" alt="karanraj3056" /></a> 
+Welcome to my GitHub profile, where you can explore my projects ranging from predictive modeling and data processing pipelines to responsive web apps and scalable software systems. I’m eager to collaborate, learn, and contribute to innovative tech solutions in this fast-evolving field.</p><a href="https://twitter.com/karanraj3056" target="blank"><img src="https://img.shields.io/twitter/follow/karanraj3056?logo=twitter&style=for-the-badge" alt="karanraj3056" /></a> 
 
 - 🔭 I’m currently working on **Backend** ;               - 🌱 I’m currently learning **Web Development**
 

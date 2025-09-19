@@ -15,14 +15,14 @@ Welcome to my GitHub profile, where you can explore my projects ranging from pre
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karanraj-6&label=Profile%20views&color=0e75b6&style=flat" alt="Karanraj-6" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Karanraj-6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Karanraj-6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience&theme=onedark)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/karanraj3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karanraj3056" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karanraj-kumbala-1566ba283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanraj-kumbala-1566ba283" height="30" width="40" /></a>
 <a href="https://fb.com/karanraj3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karanraj3056" height="30" width="40" /></a>
-<a href="https://instagram.com/_karan_2k06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_karan_2k06" height="30" width="40" /></a>
+<a href="https://instagram.com/_karan6__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_karan6__" height="30" width="40" /></a>
 <a href="https://medium.com/@karanraj3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@karanraj3056" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/karanraj3056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karanraj3056" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kroops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kroops" height="30" width="40" /></a>
@@ -228,8 +228,13 @@ Welcome to my GitHub profile, where you can explore my projects ranging from pre
   <img src="https://komarev.com/ghpvc/?username=karanraj-6&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img src="https://karanraj-6.netlify.app/.netlify/functions/contribution-graph" alt="Contribution Graph" />
 </p>
+
+<!-- <p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p> -->
 
 

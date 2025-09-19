@@ -41,19 +41,27 @@ export default async () => {
     // Dimensions
     const width = 1200;
     const height = 400;
-    const margin = 40;
+    const margin = 50;
     const max = Math.max(...counts);
 
     const xScale = i => margin + (i / (counts.length - 1)) * (width - 2 * margin);
     const yScale = v => height - margin - (v / max) * (height - 2 * margin);
 
-    // Build smooth path (cubic Bézier)
+    // Background grid lines
+    let grid = "";
+    const ySteps = 5;
+    for (let i = 0; i <= ySteps; i++) {
+      const y = margin + ((height - 2 * margin) * i) / ySteps;
+      grid += `<line x1="${margin}" y1="${y}" x2="${width - margin}" y2="${y}" stroke="#1f6feb" stroke-opacity="0.3"/>`;
+    }
+
+    // Smooth curve path (more control points for smoother curve)
     const pathPoints = counts.map((v, i) => [xScale(i), yScale(v)]);
     let path = `M ${pathPoints[0][0]} ${pathPoints[0][1]}`;
     for (let i = 1; i < pathPoints.length; i++) {
       const [x0, y0] = pathPoints[i - 1];
       const [x1, y1] = pathPoints[i];
-      const cx = (x0 + x1) / 2; // control point X
+      const cx = (x0 + x1) / 2;
       path += ` Q ${x0} ${y0} ${cx} ${(y0 + y1) / 2} T ${x1} ${y1}`;
     }
 
@@ -73,6 +81,11 @@ export default async () => {
           </feMerge>
         </filter>
       </defs>
+
+      <!-- Grid -->
+      ${grid}
+
+      <!-- Smooth Curve -->
       <path d="${path}" fill="none" stroke="url(#grad)" stroke-width="3" filter="url(#glow)" stroke-linecap="round"/>
     </svg>`;
 

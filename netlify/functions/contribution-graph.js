@@ -31,10 +31,10 @@ export default async () => {
       body: JSON.stringify({ query, variables: { username: USERNAME } }),
     });
 
-    const data = await res.json();
+    const result = await res.json();
 
     const counts = [];
-    data.data.user.contributionsCollection.contributionCalendar.weeks.forEach(w =>
+    result.data.user.contributionsCollection.contributionCalendar.weeks.forEach(w =>
       w.contributionDays.forEach(d => counts.push(d.contributionCount))
     );
 
@@ -42,22 +42,41 @@ export default async () => {
     const width = 1200;
     const height = 400;
     const margin = 40;
-
     const max = Math.max(...counts);
 
     const xScale = i => margin + (i / (counts.length - 1)) * (width - 2 * margin);
     const yScale = v => height - margin - (v / max) * (height - 2 * margin);
 
-    let lines = "";
-    for (let i = 1; i < counts.length; i++) {
-      const color = counts[i] >= counts[i - 1] ? "red" : "green";
-      lines += `<line x1="${xScale(i - 1)}" y1="${yScale(counts[i - 1])}" x2="${xScale(i)}" y2="${yScale(counts[i])}" stroke="${color}" stroke-width="2"/>`;
+    // Build smooth path (cubic Bézier)
+    const pathPoints = counts.map((v, i) => [xScale(i), yScale(v)]);
+    let path = `M ${pathPoints[0][0]} ${pathPoints[0][1]}`;
+    for (let i = 1; i < pathPoints.length; i++) {
+      const [x0, y0] = pathPoints[i - 1];
+      const [x1, y1] = pathPoints[i];
+      const cx = (x0 + x1) / 2; // control point X
+      path += ` Q ${x0} ${y0} ${cx} ${(y0 + y1) / 2} T ${x1} ${y1}`;
     }
 
-    const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" style="background:#0d1117">${lines}</svg>`;
+    const svg = `
+    <svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" style="background:#0d1117">
+      <defs>
+        <linearGradient id="grad" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stop-color="red"/>
+          <stop offset="50%" stop-color="orange"/>
+          <stop offset="100%" stop-color="green"/>
+        </linearGradient>
+        <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+          <feGaussianBlur stdDeviation="4" result="blur"/>
+          <feMerge>
+            <feMergeNode in="blur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+      </defs>
+      <path d="${path}" fill="none" stroke="url(#grad)" stroke-width="3" filter="url(#glow)" stroke-linecap="round"/>
+    </svg>`;
 
     return new Response(svg, { headers: { "Content-Type": "image/svg+xml" } });
-
   } catch (err) {
     return new Response(JSON.stringify({ error: err.message }), { status: 500 });
   }

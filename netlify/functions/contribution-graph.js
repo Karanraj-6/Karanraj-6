@@ -1,102 +1,79 @@
-import { createCanvas } from "canvas";
 import fetch from "node-fetch";
-import Chart from "chart.js/auto";
+import * as d3 from "d3";
 
-export async function handler() {
-  const USERNAME = "Karanraj-6";
-  const TOKEN = process.env.GITHUB_TOKEN;
+export default async () => {
+  try {
+    const USERNAME = "Karanraj-6"; // your GitHub username
+    const TOKEN = process.env.GITHUB_TOKEN; // your Netlify environment variable
 
-  // GitHub GraphQL API query
-  const query = `
-    query($username:String!) {
-      user(login: $username) {
-        contributionsCollection {
-          contributionCalendar {
-            weeks {
-              contributionDays {
-                date
-                contributionCount
+    // GraphQL query to fetch last year contributions
+    const query = `
+      query($username: String!) {
+        user(login: $username) {
+          contributionsCollection {
+            contributionCalendar {
+              weeks {
+                contributionDays {
+                  date
+                  contributionCount
+                }
               }
             }
           }
         }
       }
-    }
-  `;
+    `;
 
-  const response = await fetch("https://api.github.com/graphql", {
-    method: "POST",
-    headers: {
-      Authorization: `bearer ${TOKEN}`,
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({ query, variables: { username: USERNAME } })
-  });
+    const response = await fetch("https://api.github.com/graphql", {
+      method: "POST",
+      headers: {
+        Authorization: `bearer ${TOKEN}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ query, variables: { username: USERNAME } }),
+    });
 
-  const data = await response.json();
-  const days = [];
-  const counts = [];
+    const result = await response.json();
 
-  data.data.user.contributionsCollection.contributionCalendar.weeks.forEach(
-    (week) => {
-      week.contributionDays.forEach((day) => {
+    // Extract contributions
+    const days = [];
+    const counts = [];
+    result.data.user.contributionsCollection.contributionCalendar.weeks.forEach(week => {
+      week.contributionDays.forEach(day => {
         days.push(day.date);
         counts.push(day.contributionCount);
       });
+    });
+
+    // Create SVG using D3 scales
+    const width = 1200;
+    const height = 400;
+    const margin = 40;
+
+    const x = d3.scaleLinear().domain([0, counts.length - 1]).range([margin, width - margin]);
+    const y = d3.scaleLinear().domain([0, Math.max(...counts)]).range([height - margin, margin]);
+
+    let paths = "";
+    for (let i = 1; i < counts.length; i++) {
+      const x1 = x(i - 1);
+      const y1 = y(counts[i - 1]);
+      const x2 = x(i);
+      const y2 = y(counts[i]);
+      const color = counts[i] >= counts[i - 1] ? "red" : "green";
+      paths += `<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="${color}" stroke-width="2"/>`;
     }
-  );
 
-  // Colors based on trend
-  const colors = counts.map((c, i) => {
-    if (i === 0) return "gray";
-    if (c > counts[i - 1]) return "red";
-    if (c < counts[i - 1]) return "green";
-    return "gray";
-  });
+    const svg = `
+      <svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" style="background:#0d1117">
+        <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+          ${paths}
+        </g>
+      </svg>
+    `;
 
-  // Create chart
-  const width = 1200;
-  const height = 400;
-  const canvas = createCanvas(width, height);
-  const ctx = canvas.getContext("2d");
+    return new Response(svg, { headers: { "Content-Type": "image/svg+xml" } });
 
-  new Chart(ctx, {
-    type: "line",
-    data: {
-      labels: days,
-      datasets: [
-        {
-          label: "Contributions",
-          data: counts,
-          borderColor: "black",
-          borderWidth: 1.5,
-          pointBackgroundColor: colors,
-          pointBorderColor: colors,
-          pointRadius: 4
-        }
-      ]
-    },
-    options: {
-      responsive: false,
-      plugins: {
-        legend: { display: false },
-        title: {
-          display: true,
-          text: `${USERNAME}'s Contribution Trend`
-        }
-      },
-      scales: {
-        x: {
-          ticks: { maxRotation: 45, minRotation: 45 }
-        }
-      }
-    }
-  });
-
-  // Return SVG
-  return {
-    statusCode: 200,
-    headers: { "Content-Type": "image/svg+xml" },
-    body: canvas.toBuffer("image/svg+xml").toString()
-  };
-}
+  } catch (err) {
+    return new Response(JSON.stringify({ error: err.message }), { status: 500 });
+  }
+};
